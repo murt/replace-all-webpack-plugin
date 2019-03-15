@@ -1,0 +1,12 @@
+{
+    "include": [ "index.ts" ],
+    "exclude": [ "node_modules" ],
+    "compilerOptions": {
+        "target": "es5",
+        "strict": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "preserveConstEnums": true,
+        "declaration": true
+    }
+}

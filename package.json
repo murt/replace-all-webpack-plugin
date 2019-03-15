@@ -1,0 +1,15 @@
+{
+    "name": "replace-all-webpack-plugin",
+    "version": "0.0.1",
+    "license": "MIT",
+    "author": "murt <murt@unpossible.io>",
+    "repository": "murt/replace-all-webpack-plugin",
+    "scripts": {
+        "build": "tsc"
+    },
+    "devDependencies": {
+        "@types/webpack": "4.4.25",
+        "typescript": "3.3.3333",
+        "webpack": "4.29.6"
+    }
+}
